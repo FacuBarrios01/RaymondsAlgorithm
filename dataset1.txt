@@ -1,0 +1,12 @@
+Number of nodes:7
+1,-1
+2,1
+3,2
+4,1
+5,4
+6,2
+7,6
+Token requests:
+6
+5
+7
